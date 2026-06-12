@@ -18,7 +18,7 @@
 
 <!-- 여기에 결과 화면 캡처를 넣을 예정 -->
 
-> <img width="500" height="783" alt="image" src="https://github.com/user-attachments/assets/ccfec687-bc66-48f8-b124-ce088e44246c" />
+<img width="500" height="783" alt="image" src="https://github.com/user-attachments/assets/ccfec687-bc66-48f8-b124-ce088e44246c" />
 
 
 ## 실행 방법
